@@ -1,5 +1,5 @@
 android_app_import {
-    name: "GmsCompatConfig",
+    name: "GoogleVoice",
 
     apk: "prebuilt/app-release.apk",
     preprocessed: true,
